@@ -8,7 +8,7 @@
 Tema de firefox inspirado en el videojuego Milk Outside a Bag of Milk <br>
 Link: https://addons.mozilla.org/es-AR/firefox/addon/milkoutsidebagofmilk-theme/
 <br><br>
-![Milk theme](./Sin%título.png)
+![Milk theme](./Sin%20título.png)
 
 
 
